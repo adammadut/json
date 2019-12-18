@@ -1,0 +1,9 @@
+[
+	{ 
+		"nama" : "Adam Maulana",
+		"umur" : 20,
+		"nrp" : "173040058",
+		"lulus" : true,
+		"hobby" : ["tidur", "ngoding"]
+	}
+]
